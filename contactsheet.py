@@ -2,6 +2,9 @@ import PySimpleGUI as sg
 from datetime import datetime
 from subprocess import call
 
+# create contact sheet using montage command
+form = sg.FlexForm('Photo Montage')
+
 # not playing with the look at the moment
 # sg.ChangeLookAndFeel('SandyBeach')
 
