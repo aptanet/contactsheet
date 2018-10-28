@@ -9,3 +9,7 @@ The code uses PySimpleGUI to allow input of *some* of the parameters for the mon
 
 - The code is written and tested in Python 3 and not compatibility checked with Python 2.x
 - You will need to *pip3 install PySimpleGUI*
+
+@aptanet
+Paul Tansom
+2018-10-28
